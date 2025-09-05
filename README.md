@@ -68,5 +68,3 @@ Imagine building a **social media app**:
 2. **Backend:** An API (Node.js/NestJS or Django) that handles authentication, feeds, and messaging.
 3. **Database:** PostgreSQL for users/posts, Redis for notifications.
 4. **Deployment:** Host frontend on Vercel, backend on AWS, images on S3, with CI/CD for updates.
-
----
