@@ -2,16 +2,16 @@
 
 ## 💻 Source Code:
 
-- 🔗 [Chapter 1: Get Started](https://github.com/kanishkasubash/frontend-web-development/blob/master/html-full-course/Lesson_01/index.html)
-- 🔗 [Chapter 2: Head Element](https://github.com/kanishkasubash/frontend-web-development/blob/master/html-full-course/Lesson_02/index.html)
-- 🔗 [Chapter 3: Text Basics](https://github.com/kanishkasubash/frontend-web-development/blob/master/html-full-course/Lesson_03/index.html)
-- 🔗 [Chapter 4: List Types](https://github.com/kanishkasubash/frontend-web-development/blob/master/html-full-course/Lesson_04/index.html)
-- 🔗 [Chapter 5: Add Hyper Links](https://github.com/kanishkasubash/frontend-web-development/blob/master/html-full-course/Lesson_05/index.html)
-- 🔗 [Chapter 6: Add Images](https://github.com/kanishkasubash/frontend-web-development/blob/master/html-full-course/Lesson_06/index.html)
-- 🔗 [Chapter 7: Semantic Tags](https://github.com/kanishkasubash/frontend-web-development/blob/master/html-full-course/Lesson_07/index.html)
-- 🔗 [Chapter 8: Create Tables](https://github.com/kanishkasubash/frontend-web-development/blob/master/html-full-course/Lesson_08/index.html)
-- 🔗 [Chapter 9: Forms & Inputs](https://github.com/kanishkasubash/frontend-web-development/blob/master/html-full-course/Lesson_09/index.html)
-- 🔗 [Chapter 10: Final Project](https://github.com/kanishkasubash/frontend-web-development/blob/master/html-full-course/final_project/index.html)
+- 🔗 [Chapter 1: Get Started](https://github.com/kanishkasubash/full-stack-web-development/tree/master/html-full-course/Lesson_01/index.html)
+- 🔗 [Chapter 2: Head Element](https://github.com/kanishkasubash/full-stack-web-development/tree/master/html-full-course/Lesson_02/index.html)
+- 🔗 [Chapter 3: Text Basics](https://github.com/kanishkasubash/full-stack-web-development/tree/master/html-full-course/Lesson_03/index.html)
+- 🔗 [Chapter 4: List Types](https://github.com/kanishkasubash/full-stack-web-development/tree/master/html-full-course/Lesson_04/index.html)
+- 🔗 [Chapter 5: Add Hyper Links](https://github.com/kanishkasubash/full-stack-web-development/tree/master/html-full-course/Lesson_05/index.html)
+- 🔗 [Chapter 6: Add Images](https://github.com/kanishkasubash/full-stack-web-development/tree/master/html-full-course/Lesson_06/index.html)
+- 🔗 [Chapter 7: Semantic Tags](https://github.com/kanishkasubash/full-stack-web-development/tree/master/html-full-course/Lesson_07/index.html)
+- 🔗 [Chapter 8: Create Tables](https://github.com/kanishkasubash/full-stack-web-development/tree/master/html-full-course/Lesson_08/index.html)
+- 🔗 [Chapter 9: Forms & Inputs](https://github.com/kanishkasubash/full-stack-web-development/tree/master/html-full-course/Lesson_09/index.html)
+- 🔗 [Chapter 10: Final Project](https://github.com/kanishkasubash/full-stack-web-development/tree/master/html-full-course/final_project/index.html)
 
 ## 📚 HTML References: 
 - 🔗 [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
