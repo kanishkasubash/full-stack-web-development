@@ -26,7 +26,6 @@
 - 🔗 [Chapter 23: Organization](https://github.com/gitdagray/css_course/tree/main/23_lesson)
 - 🔗 [Chapter 24: Final Project](https://github.com/gitdagray/css_course/tree/main/24_lesson)
 - 🔗 [Chapter 25: Reverse Mobile Menu Navbar](https://github.com/gitdagray/css_course/tree/main/25_lesson_starter-bonus)
-- 🔗 [BONUS: Chapter 25 Completed Code](https://github.com/gitdagray/css_course/tree/main/25_lesson-bonus)
 
 ---
 
@@ -109,6 +108,3 @@
     - 🔗 [Gimp](https://www.gimp.org/)
 - Image Compression (shrink file size): 
     - 🔗 [TinyPNG](https://tinypng.com/)
-
----
-
