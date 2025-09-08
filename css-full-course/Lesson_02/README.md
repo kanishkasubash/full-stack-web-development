@@ -2,8 +2,6 @@
 
 CSS selectors are **patterns** that tell the browser *which elements* in the HTML document should be styled. They form the **"hook"** between your HTML and your CSS rules.
 
----
-
 ## 🔑 Types of CSS Selectors
 
 ### 1. **Universal Selector**
