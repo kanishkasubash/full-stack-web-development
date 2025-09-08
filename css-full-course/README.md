@@ -1,7 +1,5 @@
 # CSS Full Course - 25 Chapters
 
----
-
 ### 💻 Source Code
 
 - 🔗 [Chapter 1: Get Started](https://github.com/gitdagray/css_course/tree/main/02_lesson_starter)
