@@ -2,14 +2,15 @@
 
 ### 💻 Source Code
 
-- 🔗 [Chapter 1: Get Started](https://github.com/gitdagray/css_course/tree/main/02_lesson_starter)
-- 🔗 [Chapter 2: Selectors](https://github.com/gitdagray/css_course/tree/main/02_lesson_starter)
-- 🔗 [Chapter 3: Colors](https://github.com/gitdagray/css_course/tree/main/03_lesson_starter)
-- 🔗 [Chapter 4: Units & Sizes](https://github.com/gitdagray/css_course/tree/main/04_lesson_starter)
-- 🔗 [Chapter 6: Typography](https://github.com/gitdagray/css_course/tree/main/05_lesson_starter)
-- 🔗 [Chapter 7: Styling Links](https://github.com/gitdagray/css_course/tree/main/07_lesson_starter)
-- 🔗 [Chapter 8: List Styles](https://github.com/gitdagray/css_course/tree/main/08_lesson_starter)
-- 🔗 [Chapter 9: Mini Project](https://github.com/gitdagray/css_course/tree/main/09_lesson_starter)
+- 🔗 [Chapter 01: Get Started](https://github.com/gitdagray/css_course/tree/main/02_lesson_starter)
+- 🔗 [Chapter 02: Selectors](https://github.com/gitdagray/css_course/tree/main/02_lesson_starter)
+- 🔗 [Chapter 03: Colors](https://github.com/gitdagray/css_course/tree/main/03_lesson_starter)
+- 🔗 [Chapter 04: Units & Sizes](https://github.com/gitdagray/css_course/tree/main/04_lesson_starter)
+- 🔗 [Chapter 05: Box Model](https://github.com/gitdagray/css_course/tree/main/04_lesson_starter)
+- 🔗 [Chapter 06: Typography](https://github.com/gitdagray/css_course/tree/main/05_lesson_starter)
+- 🔗 [Chapter 07: Styling Links](https://github.com/gitdagray/css_course/tree/main/07_lesson_starter)
+- 🔗 [Chapter 08: List Styles](https://github.com/gitdagray/css_course/tree/main/08_lesson_starter)
+- 🔗 [Chapter 09: Mini Project](https://github.com/gitdagray/css_course/tree/main/09_lesson_starter)
 - 🔗 [Chapter 10: Display](https://github.com/gitdagray/css_course/tree/main/10_lesson_starter)
 - 🔗 [Chapter 11: Floats](https://github.com/gitdagray/css_course/tree/main/11_lesson_starter)
 - 🔗 [Chapter 12: Columns](https://github.com/gitdagray/css_course/tree/main/12_lesson_starter)
