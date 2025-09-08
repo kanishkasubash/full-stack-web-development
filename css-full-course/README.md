@@ -2,8 +2,8 @@
 
 ### 💻 Source Code
 
-- 🔗 [Chapter 01: Get Started](https://github.com/gitdagray/css_course/tree/main/02_lesson_starter)
-- 🔗 [Chapter 02: Selectors](https://github.com/gitdagray/css_course/tree/main/02_lesson_starter)
+- 🔗 [Chapter 01: Get Started](https://github.com/kanishkasubash/full-stack-web-development/blob/master/css-full-course/Lesson_01)
+- 🔗 [Chapter 02: Selectors](https://github.com/kanishkasubash/full-stack-web-development/blob/master/css-full-course/Lesson_02)
 - 🔗 [Chapter 03: Colors](https://github.com/gitdagray/css_course/tree/main/03_lesson_starter)
 - 🔗 [Chapter 04: Units & Sizes](https://github.com/gitdagray/css_course/tree/main/04_lesson_starter)
 - 🔗 [Chapter 05: Box Model](https://github.com/gitdagray/css_course/tree/main/04_lesson_starter)
