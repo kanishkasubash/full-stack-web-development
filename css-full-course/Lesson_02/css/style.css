@@ -1,0 +1,48 @@
+/* Universal Selector (Selects all elements on the page.) */
+/* * {
+    font-family: 'Courier New', Courier, monospace;
+} */
+
+/* Type Selector (Element Selector) */
+html {
+    font-size: 22px;
+}
+
+/* body {
+    font-size: 22px;
+} */
+
+main {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: purple;
+}
+
+/* Group Selector */
+h1, h2 {
+    color: blue;
+    font-family: sans-serif;
+}
+
+/* Descendant Selector (Space) */
+/* Selects <span> inside a <p> (at any nesting level) */
+/* p span {
+    text-transform: uppercase;
+    background-color: gold;
+} */
+
+/* Class Selector */
+.gray {
+    color: gray;
+}
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+/* ID Selector */
+#second {
+    font-style: italic;
+}

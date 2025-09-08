@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 02: Selectors</title>
+    <link rel="stylesheet" href="css/style2.css">
+</head>
+
+<body>
+    <header>
+        <h1>CSS Selector Demo</h1>
+        <p>Paragraph after the h1 (affected by sibling selectors) remove before & after contents.</p>
+        <p>This is the demonstration of the CSS Selectors, explaining the Chapter 02.</p>        
+    </header>
+    <main>
+        <article id="main">
+            <h2>Section Title</h2>
+            <p>This is the first paragraph inside a div.</p>
+            <p class="highlight">This is the second paragraph (highlighted).</p>
+            <p>Another paragraph after the h2 (affected by sibling selectors).</p>
+        </article>
+        <article>
+            <section>
+                <h3>Links Example</h3>
+                <a href="https://example.com" target="_blank">External Example Link</a><br>
+                <a href="document.pdf">Download PDF</a><br>
+                <a href="http://test.com/page.html">Normal Link</a>
+            </section>
+            <section>
+                <h3>List Example</h3>
+                <ul>
+                    <li>First item</li>
+                    <li>Second item (nth-child selector applies)</li>
+                    <li>Third item</li>
+                </ul>
+            </section>
+        </article>
+    </main>
+</body>
+
+</html>

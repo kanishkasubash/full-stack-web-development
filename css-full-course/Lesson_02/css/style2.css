@@ -1,0 +1,102 @@
+/* 1. Universal Selector */
+* {
+  font-family: Arial, sans-serif;
+}
+
+/* 2. Type Selector */
+h1 {
+  color: darkblue;
+}
+
+h1 + p::before {
+    content: none;
+}
+
+h1 + p::after {
+    content: none;
+}
+
+h1 ~ p {
+    color: lightskyblue;
+}
+
+/* 3. Class Selector */
+.highlight {
+  background-color: yellow;
+}
+
+/* 4. ID Selector */
+#main {
+  border: 2px solid black;
+  padding: 10px;
+}
+
+/* 5. Group Selector */
+h2,
+h3 {
+  color: darkgreen;
+}
+
+/* 6. Descendant Selector */
+article p {
+  color: brown;
+}
+
+/* 7. Child Selector */
+article > p {
+  font-style: italic;
+}
+
+/* 8. Adjacent Sibling Selector */
+h2 + p {
+  color: red;
+}
+
+/* 9. General Sibling Selector */
+h2 ~ p {
+  text-decoration: underline;
+}
+
+/* 10. Attribute Selectors */
+a[target="_blank"] {
+  color: orange;
+}
+
+a[href^="https"] {
+  font-weight: bold;
+}
+
+a[href$=".pdf"] {
+  color: purple;
+}
+
+a[href*="example"] {
+  border-bottom: 1px dashed blue;
+}
+
+/* 11. Pseudo-classes */
+a:hover {
+  color: green;
+}
+
+p:first-child {
+  font-weight: bold;
+}
+
+li:nth-child(2) {
+  color: red;
+}
+
+/* 12. Pseudo-elements */
+p::first-line {
+  font-size: 18px;
+  /* color: rgb(0, 37, 139); */
+}
+
+p::before {
+  content: "👉 ";
+}
+
+p::after {
+  content: " ✅";
+}
