@@ -14,7 +14,7 @@ p {
 
 /* RGB */
 .transparent {
-  color: rgba(255, 0, 0, 0.5);
+  color: rgba(255, 0, 0, 0.2);
 }
 
 /* RGBA */
@@ -31,6 +31,7 @@ p {
 button {
   color: purple;
   border: 2px solid currentColor;
+  margin-bottom: 15px;
   /* currentColor */
 }
 
