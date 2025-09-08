@@ -1,6 +1,6 @@
 # Chapter 03: Colors
 
-🎨 — CSS offers many ways to represent and use **colors** in styling.
+🎨 CSS offers many ways to represent and use **colors** in styling.
 
 ---
 
