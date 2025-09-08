@@ -1,0 +1,41 @@
+h1 {
+  color: red;
+}
+
+/* Named */
+h2 {
+  color: #00ff00;
+}
+
+/* Hex */
+p {
+  color: rgb(0, 0, 255);
+}
+
+/* RGB */
+.transparent {
+  color: rgba(255, 0, 0, 0.5);
+}
+
+/* RGBA */
+.hsl {
+  color: hsl(200, 100%, 50%);
+}
+
+/* HSL */
+.hsla {
+  color: hsla(300, 60%, 40%, 0.7);
+}
+
+/* HSLA */
+button {
+  color: purple;
+  border: 2px solid currentColor;
+  /* currentColor */
+}
+
+.gradient {
+  background: linear-gradient(to right, orange, pink);
+  color: white;
+  padding: 10px;
+}
